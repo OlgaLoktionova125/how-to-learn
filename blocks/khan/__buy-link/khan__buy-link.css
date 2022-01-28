@@ -3,9 +3,6 @@
   color: #2f80ed;
   line-height: 42px;
   font-size: 30px;
-  position: absolute;
-  top: 0;
-  left: 668px;
   opacity: 1;
   transition: opacity .3s linear .3s;
 }
